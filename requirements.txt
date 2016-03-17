@@ -3,6 +3,4 @@ matplotlib
 jupyter
 numpy
 pandas
-scikit-learn
 scipy
-json
