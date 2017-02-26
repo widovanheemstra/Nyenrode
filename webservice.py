@@ -2,7 +2,8 @@ import cherrypy
 
 @cherrypy.expose
 class RecommenderWebService (object):
-
+	def GET(self):
+		return 
 
 
 if __name__ == '__main__':
