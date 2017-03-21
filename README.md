@@ -9,4 +9,5 @@ A working python 2.7 installation with some packages. See for instructions *Inst
 Wido van Heemstra - Data Scientist
 
 ## Log
-1-3-2016 First creation of repository
+- 27-2-2017 Added third lecture folder and moved data to a separate folder
+- 1-3-2016 First creation of repository
