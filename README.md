@@ -9,7 +9,7 @@ The code is by no means meant to run in production environments and is for demon
 Wido van Heemstra - Data Scientist
 
 ## Log
-- 26-10-208 Added a new notebook, containing a recommender systems build on spark. Restrucured the files and removed data files.
+- 26-10-2018 Added a new notebook, containing a recommender systems build on spark. Restrucured the files and removed data files.
 - 31-5-2018 Changed folder structure and updated the notebook for the recommender system
 - 27-2-2017 Added third lecture folder and moved data to a separate folder
 - 1-3-2016 First creation of repository
