@@ -1,1 +1,8 @@
+# Data files etc
 *.zip
+*.csv
+*.txt
+
+# Folders
+.ipynb_checkpoints
+data/
