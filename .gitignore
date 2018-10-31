@@ -2,6 +2,8 @@
 *.zip
 *.csv
 *.txt
+*.log
+*.dat
 
 # Folders
 .ipynb_checkpoints
